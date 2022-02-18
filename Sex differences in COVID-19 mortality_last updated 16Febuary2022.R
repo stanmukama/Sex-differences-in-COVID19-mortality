@@ -97,8 +97,8 @@ osf <- osf %>% rename(cvd_deaths_M = M, cvd_deaths_F = F)
 
 #get pop data from HMD and WPP
 # downloading HMD data
-username <- "stanmukama@gmail.com"
-password <- "01071989"
+username <- "email"
+password <- "password"
 
 #download data for all HMD countries ---- 
 
